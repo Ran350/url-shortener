@@ -1,0 +1,7 @@
+[[kv_namespaces]]
+binding = "KV"
+id = ""
+
+[vars]
+USERNAME = ""
+PASSWORD = ""
